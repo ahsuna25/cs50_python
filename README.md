@@ -1,2 +1,2 @@
 # cs50_python
-Learning python
+Learning python cs50
